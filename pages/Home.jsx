@@ -9,9 +9,7 @@ function Home ()
         <>
 
         <Hero/>
-        <Skills/>
-        <Services/>
-        <Footer/>
+        
         </>
     );
 }
