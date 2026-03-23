@@ -1,8 +1,9 @@
 @import "tailwindcss";
 
 html{
-  scroll-behavior: smooth;
+@apply : font-poppins scroll-smooth
 }
+
 body{
-  @apply bg-gray-50 text-gray-800 my-4 mx-2  
+  @apply box-border bg-gray-900 text-gray-100
 }
