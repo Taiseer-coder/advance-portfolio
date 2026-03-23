@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 html{
-@apply : font-poppins scroll-smooth
+@apply  font-poppins scroll-smooth
 }
 
 body{
