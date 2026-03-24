@@ -17,7 +17,7 @@ module.exports = {
     },
     extend: {
         fontFamily:{
-          Poppins :"Poppins",
+          Poppins :['Poppins'],
         },
     },
   },

@@ -1,9 +1,10 @@
 @import "tailwindcss";
 
 html{
-@apply : font-poppins scroll-smooth
+@apply font-Poppins scroll-smooth;
 }
 
 body{
-  @apply box-border bg-gray-900 text-gray-100
+  @apply box-border bg-gray-900 text-gray-100;
 }
+
