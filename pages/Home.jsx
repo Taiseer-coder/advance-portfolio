@@ -3,7 +3,6 @@ import Bot from "../components/Bot";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import Hero from "../components/Hero";
-import Hireme from "../components/Hireme";
 import Navbar from "../components/Navbar";
 import Projects from "../components/Projects";
 import Skills from "../components/Skills";
@@ -14,14 +13,13 @@ function Home ()
         <>
 
         <Navbar/>
+        <Hero/>
         <Bot/>
-        {/* <About/>
+        <About/>
+        <Skills/>
+        <Projects/>
         <Contact/>
         <Footer/>
-        <Hero/>
-        <Hireme/>
-        <Projects/>
-        <Skills/> */}
 
         
         
